@@ -24,7 +24,7 @@ A curated list of resources that have been instrumental in my learning journey:
 
 ## Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="mailto:iyke.zusi@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>&nbsp;&nbsp;

@@ -12,7 +12,7 @@ I am enthusiastic about exploring the potential that machine learning provides a
 
 ## Resources
 A curated list of resources that have been instrumental in my learning journey:
-- [Book: "Hands-On Machine Learning with Scikit-Learn & TensorFlow" by Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/)
+- [Book: "Hands-On Machine Learning with Scikit-Learn & TensorFlow" by Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - [Book: "Introduction to Statistical Learning with Python" by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani](https://www.statlearning.com/)
 
 ## Connect with Me

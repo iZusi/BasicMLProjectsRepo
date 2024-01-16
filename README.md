@@ -13,7 +13,7 @@ I am enthusiastic about exploring the potential that machine learning provides a
 #### Project 1: Advertising Model for Increased Sales
 
 - Description: This is a simple project that focuses on building a machine learning model using advertising data to enhance sales.
-- Code: [Notebook - Advertising Data Model](/projects/p1/advertising.ipynb)
+- Code: [Notebook - Advertising Data Model](/projects/regression/p1/advertising.ipynb)
 
 ## Resources
 

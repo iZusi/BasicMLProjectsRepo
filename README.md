@@ -1,4 +1,4 @@
-# Code and Conquer: My Machine Learning Saga
+# Code and Conquer: My Machine Learning Odyssey
 
 Welcome to my repository, which documents my path into Machine Learning! Here, I share my learning projects and reflections as I explore the wonderful field of machine learning.
 

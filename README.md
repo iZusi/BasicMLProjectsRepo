@@ -15,6 +15,11 @@ I am enthusiastic about exploring the potential that machine learning provides a
 - Description: This is a simple project that focuses on building a machine learning model using advertising data to enhance sales.
 - Code: [Notebook - Advertising Data Model](/projects/regression/p1/advertising.ipynb)
 
+#### Project 2: Geely Auto Price Prediction
+
+- Description: Predicting car prices for Geely Auto in the US market using machine learning. Explore the Jupyter notebook to discover insights and model performance.
+- README: [Geely Auto Price Prediction](/projects/regression/p2/README.md)
+
 ## Resources
 
 A curated list of resources that have been instrumental in my learning journey:

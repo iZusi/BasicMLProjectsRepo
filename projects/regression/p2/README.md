@@ -64,7 +64,7 @@ While the current model demonstrates strong predictive capabilities, continuous 
 
 Explore the details of the machine learning model in the Jupyter notebook:
 
-- [Geely Auto Price Prediction Model](/car.ipynb)
+- [Geely Auto Price Prediction Model](car.ipynb)
 
 ## Conclusion
 

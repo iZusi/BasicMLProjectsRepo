@@ -74,4 +74,4 @@ In conclusion, the linear regression model provides a solid foundation for under
 
 This project is solely for educational and learning purposes. The machine learning model and insights generated are not intended for commercial use, and the results should be interpreted with caution. The accuracy and reliability of the model may be limited.
 
-The dataset used in this project is sourced from [https://www.kaggle.com/datasets/hellbuoy/car-price-prediction] and is subject to the terms of use specified by the dataset provider.
+The dataset used in this project is subject to the terms of use specified by the dataset provider.

@@ -68,7 +68,7 @@ Explore the details of the machine learning model in the Jupyter notebook:
 
 ## Conclusion
 
-In conclusion, the linear regression model provides a solid foundation for understanding and predicting car prices for Geely Auto in the US market. The combined analysis of quantitative metrics, visualizations, and consistency in validation set performance provides a comprehensive picture of the model's strengths and areas for improvement. Future iterations will focus on implementing refinements and leveraging insights to drive business strategies effectively.
+In conclusion, the linear regression model provides a solid foundation for understanding and predicting car prices for Geely Auto in the US market. The combined analysis of quantitative metrics, visualizations, and consistency in validation set performance provides a comprehensive picture of the model's strengths and areas for improvement. Future iterations will focus on implementing refinements and leveraging insights.
 
 ## Disclaimer
 
